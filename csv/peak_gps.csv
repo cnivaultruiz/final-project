@@ -1,0 +1,469 @@
+,peak_id,peak_name,peak_alternative_name,height_metres,climbing_status,first_ascent_year,first_ascent_country,first_ascent_expedition_id,location,region,latitude,longitude
+0,AMAD,Ama Dablam,Amai Dablang,6814,Climbed,1961.0,"New Zealand, USA, UK",AMAD61101,Khumbu,Khumbu-Rolwaling-Makalu,27.8621001,86.8604289
+1,AMPG,Amphu Gyabjen,Unknown,5630,Climbed,1953.0,UK,AMPG53101,Khumbu,Khumbu-Rolwaling-Makalu,27.8812212,86.8687897
+2,ANN1,Annapurna I,Unknown,8091,Climbed,1950.0,France,ANN150101,Annapurna,Annapurna-Damodar-Peri,28.5958063,83.8199199
+3,ANN2,Annapurna II,Unknown,7937,Climbed,1960.0,"UK, Nepal",ANN260101,Annapurna,Annapurna-Damodar-Peri,45.9193991,6.8657575
+4,ANN3,Annapurna III,Unknown,7555,Climbed,1961.0,India,ANN361101,Annapurna,Annapurna-Damodar-Peri,28.5853509,83.9891091
+5,ANN4,Annapurna IV,Unknown,7525,Climbed,1955.0,W Germany,ANN455101,Annapurna,Annapurna-Damodar-Peri,28.5368932,84.0835623
+6,ANNE,Annapurna I East,Unknown,8026,Climbed,1974.0,Spain,ANNE74101,Annapurna,Annapurna-Damodar-Peri,51.5640387,-1.7519405
+7,ANNM,Annapurna I Middle,Unknown,8051,Climbed,1980.0,W Germany,ANNM80301,Annapurna,Annapurna-Damodar-Peri,,
+8,ANNS,Annapurna South,"Annapurna Dakshin, Moditse",7219,Climbed,1964.0,"Japan, Nepal",ANNS64301,Annapurna,Annapurna-Damodar-Peri,28.5183959,83.8063433
+9,APIM,Api Main,Unknown,7132,Climbed,1960.0,"Japan, Nepal",APIM60101,Api/Byas Risi/Guras,Far West-Kanjiroba,47.5603035,-1.025273378651685
+10,APIW,Api West,Unknown,7076,Unclimbed,,Unknown,Unknown,Api/Byas Risi/Guras,Far West-Kanjiroba,1.3324349,103.63288815976227
+11,BARU,Baruntse,Unknown,7152,Climbed,1954.0,New Zealand,BARU54101,Khumbu,Khumbu-Rolwaling-Makalu,27.8720615,86.9796489
+12,BAUD,Baudha,Unknown,6672,Climbed,1970.0,Japan,BAUD70101,Manaslu/Mansiri,Manaslu-Ganesh,27.7205626,85.3617188
+13,BHEM,Bhemdang Ri,Morimoto,6150,Climbed,1964.0,"Japan, Nepal",BHEM64101,Langtang,Langtang-Jugal,28.2721381,85.6635329
+14,BHRI,Bhrikuti,Damodar Himal,6476,Climbed,1982.0,"Japan, Nepal",BHRI82101,Damodar,Annapurna-Damodar-Peri,27.6307699,83.4769766
+15,BOBA,Bobaye,Unknown,6808,Climbed,1996.0,Slovenia,BOBA96301,Api/Byas Risi/Guras,Far West-Kanjiroba,10.4330167,21.27055
+16,CHAM,Chamlang,Unknown,7321,Climbed,1962.0,"Japan, Nepal",CHAM62101,Khumbu,Khumbu-Rolwaling-Makalu,27.7769937,86.9810557
+17,CHAN,Changla,Changla Himal,6563,Climbed,2010.0,Japan,CHAN10301,Nalakankar/Chandi/Changla,Far West-Kanjiroba,24.45932835,73.49460664228269
+18,CHMN,Chamar North,Peak 23,7165,Climbed,1953.0,"New Zealand, Nepal",CHMN53101,Ganesh/Shringi,Manaslu-Ganesh,35.4623305,-80.6827327
+19,CHEO,Cheo Himal,Unknown,6820,Climbed,1991.0,"Japan, Nepal",CHEO91301,Peri,Annapurna-Damodar-Peri,,
+20,CHOY,Cho Oyu,Unknown,8188,Climbed,1954.0,"Austria, Nepal",CHOY54301,Khumbu,Khumbu-Rolwaling-Makalu,28.0967465,86.659634
+21,CHOB,Chobuje,"Chobutse, Tsoboje",6686,Climbed,1972.0,W Germany,CHOB72101,Rolwaling,Khumbu-Rolwaling-Makalu,27.8814373,86.4892244
+22,CHOL,Cholatse,"Tsolatse, Jobo Lhaptshan",6423,Climbed,1982.0,"USA, UK",CHOL82101,Khumbu,Khumbu-Rolwaling-Makalu,27.9196156,86.7651758
+23,CHOP,Cho Polu,Unknown,6700,Climbed,1984.0,Spain,CHOP84301,Khumbu,Khumbu-Rolwaling-Makalu,27.9194539,86.9819868
+24,CHUL,Chulu Central,Chulu East,6584,Climbed,1955.0,W Germany,CHUL55201,Damodar,Annapurna-Damodar-Peri,-12.8241485,33.3069523
+25,CHUG,Chukyima Go,Chugimago,6258,Climbed,2014.0,Slovenia,CHUG14301,Rolwaling,Khumbu-Rolwaling-Makalu,,
+26,CHUR,Churen Himal Central,Unknown,7385,Climbed,1970.0,Japan,CHUR70301,Dhaulagiri,Dhaulagiri-Mukut,,
+27,CHUW,Chulu West,Unknown,6419,Climbed,1952.0,Japan,CHUW52301,Damodar,Annapurna-Damodar-Peri,28.7454053,84.0228323
+28,TAPL,Taple Shikhar,Cross Peak,6447,Climbed,1998.0,"Japan, Nepal",TAPL98301,Kangchenjunga/Simhalila,Kangchenjunga-Janak,,
+29,CTSE,Changtse,Everest North Peak,7583,Climbed,1982.0,W Germany,CTSE82301,Khumbu,Khumbu-Rolwaling-Makalu,28.024329,86.9151856
+30,DHA1,Dhaulagiri I,Unknown,8167,Climbed,1960.0,"Switzerland, Austria, W Germany, Nepal",DHA160101,Dhaulagiri,Dhaulagiri-Mukut,27.6930382,84.4236905
+31,DHA2,Dhaulagiri II,Unknown,7751,Climbed,1971.0,"Austria, USA, Nepal",DHA271101,Dhaulagiri,Dhaulagiri-Mukut,28.7631589,83.3873786
+32,DHA3,Dhaulagiri III,"Nalu, Naula",7715,Climbed,1973.0,W Germany,DHA373301,Dhaulagiri,Dhaulagiri-Mukut,28.7540263,83.3771445
+33,DHA4,Dhaulagiri IV,Unknown,7661,Climbed,1975.0,Japan,DHA475101,Dhaulagiri,Dhaulagiri-Mukut,28.7357489,83.314379
+34,DHA5,Dhaulagiri V,Unknown,7618,Climbed,1975.0,"Japan, Nepal",DHA575101,Dhaulagiri,Dhaulagiri-Mukut,28.734057,83.3605794
+35,DHA6,Dhaulagiri VI,Unknown,7268,Climbed,1970.0,Japan,DHA670101,Dhaulagiri,Dhaulagiri-Mukut,28.7083897,83.2731956
+36,DHAM,Dhampus,"Thapa Peak, Marpha Peak",6012,Climbed,1960.0,Austria,DHAM60101,Mukut/Mustang,Dhaulagiri-Mukut,28.300303,83.858681
+37,DOGA,Dogari,Unknown,6536,Unclimbed,,Unknown,Unknown,Dhaulagiri,Dhaulagiri-Mukut,44.8469173,24.481427
+38,PEMK,Pemthang Karpo Ri,"Dome Blanc, Kan Karmo",6865,Climbed,1955.0,"Switzerland, Nepal",PEMK55101,Jugal,Langtang-Jugal,28.2491141,85.7479044
+39,DORJ,Dorje Lhakpa,Unknown,6966,Climbed,1981.0,"Japan, Nepal",DORJ81301,Jugal,Langtang-Jugal,28.175405,85.7786481
+40,DRAN,Drangnag Ri,Thaknak Ri,6757,Climbed,1995.0,"Norway, UK, Nepal",DRAN95101,Rolwaling,Khumbu-Rolwaling-Makalu,,
+41,DROM,Drohmo,"Domo, Longridge Peak",6881,Unclimbed,,Unknown,Unknown,Jongsang,Kangchenjunga-Janak,27.8243769,88.1008155
+42,EVER,Everest,"Sagarmatha, Chomolungma, Qomolungma",8850,Climbed,1953.0,"New Zealand, India",EVER53101,Khumbu,Khumbu-Rolwaling-Makalu,39.6772236,-95.4247001
+43,FANG,Fang,"Varaha Shikhar, Varaha Chuli, Finger",7647,Climbed,1980.0,"Austria, Nepal",FANG80101,Annapurna,Annapurna-Damodar-Peri,32.0426141,110.7210616
+44,FIRN,Firnkopf,Firnkopf East,6730,Unclimbed,,Unknown,Unknown,Saipal,Far West-Kanjiroba,29.901419,81.4560136
+45,FIRW,Firnkopf West,Unknown,6745,Climbed,1987.0,"Austria, W Germany, Nepal",FIRW87301,Saipal,Far West-Kanjiroba,,
+46,GAMA,Gama Peak,Unknown,7187,Climbed,1970.0,Japan,GAMA70301,Dhaulagiri,Dhaulagiri-Mukut,28.7165789,83.2763871
+47,GAN1,Ganesh I,Yangra Kangri,7422,Climbed,1955.0,"Switzerland, France",GAN155301,Ganesh/Shringi,Manaslu-Ganesh,28.3917153,85.1270412
+48,GAN3,Ganesh III,"Salasungo, Kang Lombo, Lopsang Karbo",7043,Climbed,1979.0,"Japan, Nepal",GAN379301,Ganesh/Shringi,Manaslu-Ganesh,28.3452083,85.0795779
+49,GAN2,Ganesh II,Unknown,7118,Climbed,1981.0,"W Germany, Nepal",GAN281302,Ganesh/Shringi,Manaslu-Ganesh,28.3789024,85.0551861
+50,GAN4,Ganesh IV,Pabil,7104,Climbed,1978.0,"Japan, Nepal",GAN478301,Ganesh/Shringi,Manaslu-Ganesh,28.3363962,85.120491
+51,GAN5,Ganesh V,Unknown,6770,Climbed,1980.0,"Japan, Nepal",GAN580101,Ganesh/Shringi,Manaslu-Ganesh,28.3697277,85.0614738
+52,GAN6,Ganesh VI,Unknown,6908,Climbed,2000.0,Japan,GAN600101,Ganesh/Shringi,Manaslu-Ganesh,28.3312446,85.1628264
+53,GANC,Ganchenpo,"Fluted Peak, Ganchempo",6378,Climbed,1971.0,USA,GANC71302,Jugal,Langtang-Jugal,28.1693908,85.6785419
+54,GAND,Gandharva Chuli,"Gandharbha, Gabelhorn Peak",6248,Climbed,2013.0,Romania,GAND13101,Annapurna,Annapurna-Damodar-Peri,,
+55,GANG,Gangapurna,Unknown,7455,Climbed,1965.0,"W Germany, Nepal",GANG65101,Annapurna,Annapurna-Damodar-Peri,28.605655,83.9635144
+56,GAUR,Gaurishankar,Jomo Tseringma,7135,Climbed,1979.0,"US, Nepal",GAUR79101,Rolwaling,Khumbu-Rolwaling-Makalu,27.8111769,86.3219800782287
+57,GHUN,Ghustang North,Unknown,6529,Climbed,1962.0,"UK, Nepal",GHUN62301,Dhaulagiri,Dhaulagiri-Mukut,,
+58,GHUS,Ghustang South,"Gurja West, Paschim Himal",6465,Climbed,2019.0,"France, Canada, Switzerland, Nepal",GHUS18301,Dhaulagiri,Dhaulagiri-Mukut,,
+59,MATA,Matathumba,"Matatumpa, Ghyuthumba East",5767,Climbed,1961.0,"UK, Nepal",MATA61101,Kanjiroba,Far West-Kanjiroba,,
+60,GHYM,Ghyuthumba Main,"Gutumpa, Pasang Peak",5806,Climbed,1953.0,"Austria, Nepal, India",GHYM53301,Kanjiroba,Far West-Kanjiroba,,
+61,GIME,Gimmigela Chuli East,Twins,7007,Climbed,1993.0,"Japan, Nepal",GIME93301,Kangchenjunga/Simhalila,Kangchenjunga-Janak,,
+62,GIMM,Gimmigela Chuli,Twins,7350,Climbed,1994.0,"Japan, Nepal",GIMM94301,Kangchenjunga/Simhalila,Kangchenjunga-Janak,,
+63,GLAC,Glacier Dome,"Tarke Kang, Tarke Khang",7168,Climbed,1964.0,"Japan, Nepal",GLAC64301,Annapurna,Annapurna-Damodar-Peri,50.437744,-116.6197945
+64,GURJ,Gurja Himal,Unknown,7193,Climbed,1969.0,"Japan, Nepal",GURJ69301,Dhaulagiri,Dhaulagiri-Mukut,28.6741019,83.275664
+65,GURK,Gurkarpo Ri,Unknown,6889,Climbed,2007.0,France,GURK07301,Jugal,Langtang-Jugal,28.2117364,85.7736263
+66,GYAC,Gyachung Kang,Unknown,7861,Climbed,1964.0,"Japan, Nepal",GYAC64101,Khumbu,Khumbu-Rolwaling-Makalu,28.0980314,86.7448435
+67,GYAJ,Gyajikang,Gyaji Khang,7074,Climbed,1994.0,"Japan, Nepal",GYAJ94301,Peri,Annapurna-Damodar-Peri,,
+68,LEOE,Leonpo Gang East,Gyalgen Peak,6733,Climbed,1955.0,"UK, Nepal",LEOE55101,Jugal,Langtang-Jugal,,
+69,HIME,Himalchuli East,Himalchuli Main,7893,Climbed,1960.0,Japan,HIME60101,Manaslu/Mansiri,Manaslu-Ganesh,,
+70,HIML,Himlung Himal,Unknown,7126,Climbed,1992.0,"Japan, Nepal",HIML92301,Peri,Annapurna-Damodar-Peri,,
+71,HIMN,Himalchuli North,Unknown,7331,Climbed,1985.0,"S Korea, Nepal",HIMN85302,Manaslu/Mansiri,Manaslu-Ganesh,,
+72,RANI,Rani Peak,"Lidanda Peak, Himalchuli Northeast",6693,Climbed,1970.0,"Netherlands, Nepal",RANI70101,Manaslu/Mansiri,Manaslu-Ganesh,28.4614539,84.6869382
+73,HIMW,Himalchuli West,Unknown,7540,Climbed,1978.0,Japan,HIMW78101,Manaslu/Mansiri,Manaslu-Ganesh,,
+74,HIUP,Hiunchuli,Patal Hiunchuli,6434,Climbed,1971.0,USA,HIUP71301,Annapurna,Annapurna-Damodar-Peri,28.51,83.85
+75,HNKU,Hongku Chuli,"Hunku Chuli, Pyramid Peak",6833,Unclimbed,,Unknown,Unknown,Khumbu,Khumbu-Rolwaling-Makalu,,
+76,HONG,Hongde,"Hangde, Hongde Himal",6556,Climbed,1962.0,"Japan, Nepal",HONG62101,Mukut/Mustang,Dhaulagiri-Mukut,28.843187,83.4967752
+77,IMJA,Imjatse,Island Peak,6165,Climbed,1956.0,"Switzerland, Nepal",IMJA56101,Khumbu,Khumbu-Rolwaling-Makalu,,
+78,JAGD,Jagdula,Unknown,5761,Climbed,2013.0,France,JAGD13101,Kanjiroba,Far West-Kanjiroba,29.1860884,82.646386
+79,JANU,Jannu,Khumbhakarna,7711,Climbed,1962.0,"France, Nepal",JANU62101,Kangchenjunga/Simhalila,Kangchenjunga-Janak,31.0911756,77.3378327
+80,JETH,Jethi Bahurani,"Jettiborani, Jutibofurani",6850,Climbed,1978.0,Japan,JETH78101,Api/Byas Risi/Guras,Far West-Kanjiroba,29.8815211,81.0407652
+81,JONG,Jongsang,"Jonsong, Jhinsang",7462,Climbed,1930.0,"Germany, Austria",JONG30101,Jongsang,Kangchenjunga-Janak,27.8663317,88.1663672
+82,JUNC,Junction Peak,Unknown,7133,Unclimbed,,Unknown,Unknown,Dhaulagiri,Dhaulagiri-Mukut,-33.9738344,18.4158782
+83,KABD,Kabru Dome,Unknown,6600,Climbed,1982.0,India,KABD82301,Kangchenjunga/Simhalila,Kangchenjunga-Janak,27.5887155,88.1318742
+84,KABN,Kabru North,Unknown,7338,Climbed,1935.0,UK,KABN35301,Kangchenjunga/Simhalila,Kangchenjunga-Janak,,
+85,KAG1,Kagmara I,Unknown,5978,Climbed,1962.0,"UK, Nepal",KAG162101,Kanjiroba,Far West-Kanjiroba,24.2648308,89.8930174
+86,KAN1,Kande Hiunchuli North  I,Unknown,6521,Unclimbed,,Unknown,Unknown,Kanjiroba,Far West-Kanjiroba,,
+87,KAN2,Kande Hiunchuli North  II,Unknown,6471,Climbed,1980.0,Switzerland,KAN280101,Kanjiroba,Far West-Kanjiroba,,
+88,KANB,Kangbachen,Kambachen,7902,Climbed,1974.0,Poland,KANB74101,Kangchenjunga/Simhalila,Kangchenjunga-Janak,27.7146981,88.1084155
+89,KANC,Kangchenjunga Central,Unknown,8473,Climbed,1978.0,Poland,KANC78102,Kangchenjunga/Simhalila,Kangchenjunga-Janak,,
+90,KAND,Kande Hiunchuli,Unknown,6627,Climbed,1972.0,Japan,KAND72301,Kanjiroba,Far West-Kanjiroba,,
+91,KANG,Kangchenjunga,Unknown,8586,Climbed,1955.0,UK,KANG55101,Kangchenjunga/Simhalila,Kangchenjunga-Janak,27.701126,88.1483381
+92,KANS,Kangchenjunga South,Unknown,8476,Climbed,1978.0,Poland,KANS78101,Kangchenjunga/Simhalila,Kangchenjunga-Janak,,
+93,KARY,Karyolung,Unknown,6530,Climbed,1982.0,"Japan, Nepal",KARY82301,Rolwaling,Khumbu-Rolwaling-Makalu,27.7334712,86.6118443
+94,KCHN,Kangchung Nup,"Khangchung Nup, Kangcho Nup, Cholo",6043,Climbed,1953.0,"UK, New Zealand",KCHN53101,Khumbu,Khumbu-Rolwaling-Makalu,,
+95,NAYA,Naya Kanga,"Kangja Chuli, Ghanja La Chuli",5863,Climbed,,Unknown,Unknown,Jugal,Langtang-Jugal,28.168624,85.5483906
+96,KGUR,Kang Guru,Naurgaon,6981,Climbed,1955.0,W Germany,KGUR55201,Peri,Annapurna-Damodar-Peri,22.340498099999998,114.20539679999999
+97,KHAT,Khatang,Unknown,6790,Climbed,1982.0,"Japan, Nepal",KHAT82301,Rolwaling,Khumbu-Rolwaling-Makalu,27.7576495,86.5953226
+98,KHON,Khongma Tse,Mehra Peak,5798,Climbed,,Unknown,Unknown,Khumbu,Khumbu-Rolwaling-Makalu,,
+99,KJER,Kanjeralwa,Kanchen Ruwa,6612,Climbed,1973.0,"Japan, Nepal",KJER73101,Kanjiroba,Far West-Kanjiroba,29.2371829,82.7897262
+100,KJRN,Kanjiroba North,Unknown,6858,Unclimbed,,Unknown,Unknown,Kanjiroba,Far West-Kanjiroba,,
+101,KJRS,Kanjiroba South,Unknown,6883,Climbed,1970.0,Japan,KJRS70301,Kanjiroba,Far West-Kanjiroba,29.3759672,82.6378812
+102,KOTA,Kotang,"Kokthang, Kothang Kang",6148,Climbed,1982.0,Inida,KOTA82301,Kangchenjunga/Simhalila,Kangchenjunga-Janak,31.854285,77.0166992
+103,KTEG,Kangtega,"Kantega, Khangtega, Kang Taiga",6783,Climbed,1963.0,"New Zealand, USA",KTEG63101,Khumbu,Khumbu-Rolwaling-Makalu,27.7914881,86.8174422
+104,KTSU,Kangtsune,"Kangchunne, Kanchauni Lekh",6444,Unclimbed,,Unknown,Unknown,Kanjiroba,Far West-Kanjiroba,,
+105,KUSU,Kusum Kanguru,"Kusum Kang, Lamu",6370,Climbed,1981.0,New Zealand,KUSU81302,Khumbu,Khumbu-Rolwaling-Makalu,,
+106,KWAN,Kwangde,Unknown,6186,Climbed,1978.0,Japan,KWAN78301,Rolwaling,Khumbu-Rolwaling-Makalu,27.6139809,86.7148073
+107,LAMJ,Lamjung Himal,Unknown,6983,Climbed,1974.0,UK,LAMJ74101,Annapurna,Annapurna-Damodar-Peri,28.4895076,84.1886093
+108,LANG,Langtang Lirung,Langtang,7227,Climbed,1978.0,"Japan, Nepal",LANG78301,Langtang,Langtang-Jugal,28.256616,85.5168032
+109,LANR,Langtang Ri,Unknown,7205,Climbed,1981.0,"Japan, Nepal",LANR81301,Langtang,Langtang-Jugal,28.3823961,85.6839464
+110,LEON,Leonpo Gang,"Dorje Pahad, Big White Peak",6979,Climbed,1962.0,Japan,LEON62101,Jugal,Langtang-Jugal,28.1964383,85.8001908
+111,LHAS,Lha Shamma,"Lhasharma, Pinnacle Peak",6412,Climbed,1962.0,"UK, Nepal",LHAS62101,Kanjiroba,Far West-Kanjiroba,,
+112,LHOT,Lhotse,Unknown,8516,Climbed,1956.0,Switzerland,LHOT56101,Khumbu,Khumbu-Rolwaling-Makalu,27.9619855,86.9325045
+113,MUKT,Mukut Himal,"Mukot Himal, Langru",6087,Climbed,1967.0,Netherlands,MUKT67301,Mukut/Mustang,Dhaulagiri-Mukut,28.7797894,83.4607345
+114,LNPO,Langpo,Longpo,6965,Climbed,1909.0,UK,LNPO09301,Jongsang,Kangchenjunga-Janak,24.6421,105.534
+115,LOBE,Lobuje East,Lobuche East,6090,Climbed,1984.0,"USA, Nepal",LOBE84101,Khumbu,Khumbu-Rolwaling-Makalu,,
+116,LOBW,Lobuje West,Lobuche West,6135,Climbed,1984.0,Japan,LOBW84301,Khumbu,Khumbu-Rolwaling-Makalu,,
+117,LSHR,Lhotse Shar,Lhotse II,8382,Climbed,1970.0,Austria,LSHR70101,Khumbu,Khumbu-Rolwaling-Makalu,27.9587526,86.943763
+118,LSIS,Langshisa Ri,Langsisa Ri,6412,Climbed,1982.0,"Japan, Nepal",LSIS82101,Jugal,Langtang-Jugal,28.2177782,85.714613
+119,MACH,Machhapuchhare,Unknown,6993,Unclimbed,,Unknown,Unknown,Annapurna,Annapurna-Damodar-Peri,28.52665,83.907562
+120,BTAK,Bhairab Takura,Madiya,6799,Climbed,1960.0,"Japan, Nepal",BTAK60101,Jugal,Langtang-Jugal,,
+121,MAK2,Makalu II,Kangchungtse,7678,Climbed,1954.0,"UK, Nepal",MAK254301,Makalu,Khumbu-Rolwaling-Makalu,27.9140173,87.0798576
+122,MAKA,Makalu,Unknown,8485,Climbed,1955.0,France,MAKA55101,Makalu,Khumbu-Rolwaling-Makalu,27.8914385,87.0884403
+123,MANA,Manaslu,"Kutang I, Peak 30",8163,Climbed,1956.0,"Japan, Nepal",MANA56101,Manaslu/Mansiri,Manaslu-Ganesh,28.5499829,84.5597284
+124,MANN,Manaslu North,Manaslu II,6994,Climbed,1964.0,"Netherlands, Austria, Nepal",MANN64301,Manaslu/Mansiri,Manaslu-Ganesh,28.5839234,84.5491371
+125,MANP,Manapathi,Unknown,6380,Climbed,1956.0,"Argentina, Nepal",MANP56101,Dhaulagiri,Dhaulagiri-Mukut,28.6476087,83.4553484
+126,MARD,Mardi Himal,Unknown,5553,Climbed,1962.0,"UK, Nepal",MARD62101,Annapurna,Annapurna-Damodar-Peri,28.4737691,83.9275346
+127,MERA,Mera Peak,"""False"" Mera Peak",6470,Climbed,1953.0,"UK, Nepal",MERA53101,Khumbu,Khumbu-Rolwaling-Makalu,27.7098398,86.8686622
+128,MING,Mingbo Ri,Unknown,6207,Unclimbed,,Unknown,Unknown,Khumbu,Khumbu-Rolwaling-Makalu,,
+129,NALA,Nalakankar North,Unknown,6062,Climbed,2000.0,"Japan, Nepal",NALA00201,Nalakankar/Chandi/Changla,Far West-Kanjiroba,,
+130,NAMP,Nampa,Chisel Peak,6729,Climbed,1972.0,Japan,NAMP72101,Api/Byas Risi/Guras,Far West-Kanjiroba,43.5737361,-116.559631
+131,NCHU,Nupchu,Sharphu IV,6172,Climbed,1962.0,Japan,SPH462101,Janak/Ohmi Kangri,Kangchenjunga-Janak,,
+132,NEMJ,Nemjung,Unknown,7140,Climbed,1983.0,"Japan, Nepal",NEMJ83301,Peri,Annapurna-Damodar-Peri,,
+133,NEPA,Nepal Peak,Unknown,7177,Climbed,1930.0,Austria,NEPA30101,Jongsang,Kangchenjunga-Janak,-79.717551,159.597564
+134,NGO2,Ngojumba Kang II,Unknown,7743,Climbed,1965.0,"Japan, Nepal",NGO265101,Khumbu,Khumbu-Rolwaling-Makalu,28.1056007,86.7054963
+135,NGOJ,Ngojumba Kang I,"Ngozumba Kang, Ngozumba Ri, Tenzing Peak",7916,Climbed,1982.0,"S Korea, Nepal",NGOJ82302,Khumbu,Khumbu-Rolwaling-Makalu,28.1066525,86.6848764
+136,NILC,Nilgiri Central,Unknown,6940,Climbed,1979.0,Japan,NILC79101,Annapurna,Annapurna-Damodar-Peri,28.6783794,83.7353837
+137,NILN,Nilgiri North,Unknown,7061,Climbed,1962.0,"Netherlands, France, Nepal",NILN62301,Annapurna,Annapurna-Damodar-Peri,28.689076,83.7440554
+138,NILS,Nilgiri South,Unknown,6839,Climbed,1978.0,Japan,NILS78301,Annapurna,Annapurna-Damodar-Peri,28.6541082,83.7296456
+139,NUMB,Numbur,Unknown,6958,Climbed,1963.0,"Japan, Nepal",NUMB63101,Rolwaling,Khumbu-Rolwaling-Makalu,27.7542227,86.572647
+140,NUPT,Nuptse,Unknown,7864,Climbed,1961.0,"UK, Nepal",NUPT61101,Khumbu,Khumbu-Rolwaling-Makalu,27.9673711,86.886963
+141,OHMI,Ohmi Kangri,Unknown,6839,Climbed,1985.0,Switzerland,OHMI85101,Janak/Ohmi Kangri,Kangchenjunga-Janak,,
+142,OMBK,Ombak Himal,Unknown,6300,Unclimbed,,Unknown,Unknown,Janak/Ohmi Kangri,Kangchenjunga-Janak,,
+143,PALD,Paldor,Bharange,5903,Climbed,1949.0,"UK, Nepal",PALD49201,Ganesh/Shringi,Manaslu-Ganesh,28.277378,85.1871814
+144,PANG,Pangbuk Ri,Unknown,6625,Climbed,2011.0,USA,PANG11301,Rolwaling,Khumbu-Rolwaling-Makalu,,
+145,PARC,Parchamo,"Parchermo, Parchemuche, Pachermo",6279,Climbed,1955.0,UK,PARC55101,Rolwaling,Khumbu-Rolwaling-Makalu,27.8377252,86.5472278
+146,PATR,Patrasi Himal,Kande Hiunchuli North,6450,Unclimbed,,Unknown,Unknown,Kanjiroba,Far West-Kanjiroba,,
+147,PETH,Pethangtse,Unknown,6739,Climbed,1954.0,"New Zealand, Nepal",PETH54101,Khumbu,Khumbu-Rolwaling-Makalu,27.957236,87.0152042
+148,PHUR,Phurbi Chhyachu,Phurbi Ghyachu,6637,Climbed,1982.0,"Japan, Nepal",PHUR82101,Jugal,Langtang-Jugal,28.1260087,85.8674922
+149,PIMU,Pimu,Pamalka,6344,Climbed,1955.0,UK,PIMU55101,Rolwaling,Khumbu-Rolwaling-Makalu,1.83870975,21.1110836823298
+150,PISA,Pisang,Jong Ri,6091,Climbed,1955.0,W Germany,PISA55201,Damodar,Annapurna-Damodar-Peri,3.9610848,107.9790697
+151,PK29,Peak 29,"Ngadi Chuli, Dakura, Dr Harka Gurung Chuli",7871,Climbed,1979.0,Poland,PK2979101,Manaslu/Mansiri,Manaslu-Ganesh,50.527611,15.111972
+152,POIN,Pointed Peak,Unknown,5850,Climbed,1953.0,UK,POIN53101,Khumbu,Khumbu-Rolwaling-Makalu,14.8586758,120.1267431
+153,POKA,Pokalde,Unknown,5780,Climbed,1953.0,UK,POKA53101,Khumbu,Khumbu-Rolwaling-Makalu,27.9247682,86.8331902
+154,OMBG,Ombigaichen,Puma Dablam,6340,Climbed,1960.0,"New Zealand, Nepal",OMBG60301,Khumbu,Khumbu-Rolwaling-Makalu,27.8530782,86.882962
+155,PUMO,Pumori,Unknown,7138,Climbed,1962.0,"W Germany, Switzerland",PUMO62101,Khumbu,Khumbu-Rolwaling-Makalu,27.7823,85.35820335
+156,PUTH,Putha Hiunchuli,Dhaulagiri VII,7246,Climbed,1954.0,"UK, Nepal",PUTH54301,Dhaulagiri,Dhaulagiri-Mukut,28.7482046,83.1462685
+157,PYRM,Pyramid Peak,"Pathibhara Chuli, Pathibhara Khas",7140,Climbed,1993.0,"Japan, India",PYRM93101,Jongsang,Kangchenjunga-Janak,39.0716572,-106.950112
+158,RAKS,Raksha Urai,Raksha Urai III,6609,Climbed,2003.0,"France, Nepal",RAKS03301,Api/Byas Risi/Guras,Far West-Kanjiroba,30.005832,81.127285
+159,RAMD,Ramdung,Ramdong Go,5900,Climbed,1952.0,"UK, Nepal",RAMD52301,Rolwaling,Khumbu-Rolwaling-Makalu,30.7033295,77.7586234
+160,RATH,Rathong,Unknown,6682,Climbed,1964.0,India,RATH64301,Kangchenjunga/Simhalila,Kangchenjunga-Janak,27.5946131,88.0897953
+161,ROCN,Roc Noir,"Khangsar Kang, Khang Sar Khang",7485,Climbed,1969.0,W Germany,ROCN69101,Annapurna,Annapurna-Damodar-Peri,43.6123408,2.9560569
+162,ROKA,Rokapi,Kapchuli,6468,Climbed,1977.0,UK,ROKA77301,Api/Byas Risi/Guras,Far West-Kanjiroba,,
+163,SAIE,Saipal East Humla,Unknown,6925,Climbed,1990.0,"Switzerland, Nepal",SAIP90301,Saipal,Far West-Kanjiroba,,
+164,SAIP,Saipal,Unknown,7030,Climbed,1963.0,"Japan, Nepal",SAIP63301,Saipal,Far West-Kanjiroba,29.9646004,81.2207302
+165,SHAR,Shartse,"Peak 38, Shanti Shikhar",7591,Unclimbed,,Unknown,Unknown,Khumbu,Khumbu-Rolwaling-Makalu,27.955629,86.9651422
+166,SHA2,Shartse II,Junction Peak,7457,Climbed,1974.0,"Austria, W Germany",SHA274101,Khumbu,Khumbu-Rolwaling-Makalu,27.9496738,86.9833813
+167,SHEY,Shey Shikhar,Junction Peak,6139,Climbed,2007.0,Japan,SHEY07201,Kanjiroba,Far West-Kanjiroba,,
+168,SING,Singu Chuli,Fluted Peak,6501,Climbed,1957.0,UK,SING57101,Annapurna,Annapurna-Damodar-Peri,,
+169,SISN,Sisne Himal,Hiunchuli Patan,5911,Climbed,2013.0,"Nepal, USA",SISN13101,Kanjiroba,Far West-Kanjiroba,,
+170,SITA,Sita Chuchura,Unknown,6611,Climbed,1970.0,"Japan, Nepal",SITA70301,Mukut/Mustang,Dhaulagiri-Mukut,28.782078,83.4838316
+171,SNOW,Snow Peak,Unknown,6530,Unclimbed,,Unknown,Unknown,Dhaulagiri,Dhaulagiri-Mukut,33.2036756,-108.9395078
+172,SPHN,Sphinx,"Pathibhara Phurba, Pathibhara East",6825,Climbed,1936.0,UK,SPHN36101,Jongsang,Kangchenjunga-Janak,29.97528105,31.13751236590909
+173,SPH1,Sharphu I,Tanga I,6433,Climbed,1963.0,Japan,SPH163301,Janak/Ohmi Kangri,Kangchenjunga-Janak,,
+174,SURM,Surma-Sarovar North,Unknown,6564,Unclimbed,,Unknown,Unknown,Api/Byas Risi/Guras,Far West-Kanjiroba,,
+175,TAWO,Tawoche,Taboche,6495,Climbed,1974.0,France,TAWO74101,Khumbu,Khumbu-Rolwaling-Makalu,27.8973138,86.7793702
+176,KIRA,Kirat Chuli,Tent Peak,7362,Climbed,1939.0,"Switzerland, Germany",KIRA39101,Jongsang,Kangchenjunga-Janak,27.7914626,88.1971372
+177,THAM,Thamserku,Tramserku,6618,Climbed,1964.0,New Zealand,THAM64301,Khumbu,Khumbu-Rolwaling-Makalu,27.7899732,86.7852106
+178,THAR,Tharpu Chuli,Tent Peak,5695,Climbed,1964.0,Japan,THAR64301,Annapurna,Annapurna-Damodar-Peri,,
+179,TILI,Tilicho,Tilitso,7134,Climbed,1978.0,France,TILI78301,Annapurna,Annapurna-Damodar-Peri,60.2625935,24.8537182
+180,TLNG,Talung,Unknown,7349,Climbed,1964.0,"W Germany, Nepal",TLNG64101,Kangchenjunga/Simhalila,Kangchenjunga-Janak,27.6548025,88.1301939
+181,TONG,Tongu,Unknown,6187,Climbed,1959.0,USA,TONG59301,Mukut/Mustang,Dhaulagiri-Mukut,28.8714693,83.5033761
+182,TRIP,Tripura Hiunchuli,"Tripura Thumba, Hanging Glacier Peak",6553,Climbed,1986.0,"Japan, Nepal",TRIP86301,Kanjiroba,Far West-Kanjiroba,,
+183,TSOK,Tso Karpo Kang,Tso Karpo Khang,6556,Climbed,1971.0,Japan,TSOK71301,Kanjiroba,Far West-Kanjiroba,,
+184,TUKU,Tukuche,Unknown,6920,Climbed,1970.0,Japan,TUKU70101,Dhaulagiri,Dhaulagiri-Mukut,28.7108973,83.6452283
+185,URKM,Urkinmang,Buddha,6143,Climbed,1964.0,"Japan, Nepal",URKM64101,Jugal,Langtang-Jugal,,
+186,ANID,Anidesh Chuli,White Wave Peak,6808,Unclimbed,,Unknown,Unknown,Kangchenjunga/Simhalila,Kangchenjunga-Janak,,
+187,TSUR,Tsaurabong Peak,"Chara Ban Peak, White Peak",6395,Climbed,1974.0,"Japan, Nepal",TSUR74101,Dhaulagiri,Dhaulagiri-Mukut,28.6891711,83.379961
+188,YALU,Yalung Kang,Yalungkar,8505,Climbed,1973.0,Japan,YALU73101,Kangchenjunga/Simhalila,Kangchenjunga-Janak,27.7051678,88.1377837
+189,PASA,Pasang Lhamu Chuli,Jasemba,7350,Climbed,1986.0,Japan,PASA86301,Khumbu,Khumbu-Rolwaling-Makalu,28.0730974,86.6126597
+190,RATC,Ratna Chuli,Unknown,7035,Climbed,1996.0,"Japan, Nepal",RATC96301,Peri,Annapurna-Damodar-Peri,28.8649802,84.375236
+191,KANT,Kanti Himal,"Ronglai Kangri, Kaqur Kangri, Kubi Grangri",6850,Climbed,2002.0,"Japan, Nepal",KANT02301,Kanti/Palchung,Far West-Kanjiroba,29.75565275,82.69869791991958
+192,RAMT,Ramtang,Unknown,6601,Climbed,1930.0,"Austria, UK",RAMT30101,Kangchenjunga/Simhalila,Kangchenjunga-Janak,27.7367593,87.9730815
+193,LING,Lingtren,Unknown,6713,Climbed,1935.0,UK,LING35201,Khumbu,Khumbu-Rolwaling-Makalu,28.0348067,86.8082299
+194,TENG,Tengkoma,Tang Kongma,6215,Climbed,1949.0,"Switzerland, Nepal",TENG49101,Jongsang,Kangchenjunga-Janak,,
+195,RAMC,Ramtang Chang,"Wedge Peak, Chang Himal",6802,Climbed,1974.0,Yugoslavia,RAMC74301,Kangchenjunga/Simhalila,Kangchenjunga-Janak,,
+196,CHRE,Churen Himal East,Unknown,7371,Climbed,1970.0,"S Korea, Nepal",CHRE70101,Dhaulagiri,Dhaulagiri-Mukut,,
+197,CHRW,Churen Himal West,Unknown,7371,Climbed,1970.0,"Japan, Nepal",CHRW70301,Dhaulagiri,Dhaulagiri-Mukut,,
+198,CHRI,Chhukung Ri,Unknown,5550,Climbed,1965.0,Netherlands,CHRI65101,Khumbu,Khumbu-Rolwaling-Makalu,,
+199,KTOK,Kangtokal,Khang Tokal,6294,Climbed,1962.0,"Japan, Nepal",KTOK62101,Dhaulagiri,Dhaulagiri-Mukut,,
+200,SRKU,Serku Dolma,Unknown,6227,Climbed,1973.0,"Japan, Nepal",SRKU73301,Kanjiroba,Far West-Kanjiroba,,
+201,NALS,Nalakankar South,Unknown,6024,Climbed,2000.0,"Japan, Nepal",NALS00201,Nalakankar/Chandi/Changla,Far West-Kanjiroba,,
+202,CHWT,Changwathang,Unknown,6130,Climbed,2000.0,"Japan, Nepal",CHWT00201,Nalakankar/Chandi/Changla,Far West-Kanjiroba,,
+203,TAKP,Takphu Himal,Unknown,6395,Climbed,2018.0,"UK, Germany",TAKP18301,Nalakankar/Chandi/Changla,Far West-Kanjiroba,,
+204,MALA,Malanphulan,"Melanphulan, Hinku Ri",6573,Climbed,2000.0,USA,MALA00101,Khumbu,Khumbu-Rolwaling-Makalu,27.8081592,86.8658469
+205,LHOM,Lhotse Middle,Lhotse Intermediate,8410,Climbed,2001.0,Russia,LHOM01101,Khumbu,Khumbu-Rolwaling-Makalu,27.9599193,86.9399794
+206,SIMN,Simnang Himal,"P2, Simnang Himal East",6251,Climbed,2001.0,Ukraine,SIMN01101,Manaslu/Mansiri,Manaslu-Ganesh,,
+207,HCHI,Hungchhi,"Hunchhi, Chakung, Gyubanare Kang, Gyuba Tshomotse",7029,Climbed,2003.0,"Japan, Nepal",HCHI03102,Khumbu,Khumbu-Rolwaling-Makalu,,
+208,LAMP,Lampo,"Langpo Kangri, Ganesh VI",6648,Unclimbed,,Unknown,Unknown,Ganesh/Shringi,Manaslu-Ganesh,47.5259583,12.7391985
+209,CHUK,Chhukung Tse,Chhukung Chuli,5833,Climbed,1953.0,"UK, Nepal",CHUK53101,Khumbu,Khumbu-Rolwaling-Makalu,,
+210,DZAN,Dzanye,Dzanaye,6581,Climbed,1949.0,Switzerland,DZAN49101,Janak/Ohmi Kangri,Kangchenjunga-Janak,,
+211,GAUG,Gaugiri,Unknown,6110,Climbed,2002.0,USA,GAUG02101,Damodar,Annapurna-Damodar-Peri,29.0458971,84.1879231
+212,TKPO,Tengkangpoche,Thyangmoche,6482,Climbed,1984.0,"UK, USA",TKPO84301,Rolwaling,Khumbu-Rolwaling-Makalu,27.8041816,86.5953665
+213,ARNK,Arniko Chuli,Araniko Chuli,6034,Climbed,2002.0,"Japan, Nepal",ARNK02201,Mukut/Mustang,Dhaulagiri-Mukut,,
+214,SARI,Saribung,Selibung,6328,Climbed,2003.0,USA,SARI03301,Damodar,Annapurna-Damodar-Peri,28.885,84.1719123
+215,GHEN,Ghenge Liru,"Ghenye Lirung, Langtang II",6596,Climbed,1963.0,"UK, Nepal",GHEN63101,Langtang,Langtang-Jugal,28.2477839,85.4711879
+216,NAUL,Naulekh,Unknown,6340,Climbed,1954.0,New Zealand,NAUL54101,Khumbu,Khumbu-Rolwaling-Makalu,27.6875828,86.9024898
+217,CHEK,Chekigo,Unknown,6121,Climbed,2005.0,"UK, Switzerland",CHEK05101,Rolwaling,Khumbu-Rolwaling-Makalu,,
+218,KTUN,Khatung Khang,Unknown,6484,Climbed,1956.0,Switzerland,KTUN56101,Annapurna,Annapurna-Damodar-Peri,,
+219,CHAG,Chago,Unknown,6893,Climbed,1954.0,"New Zealand, Nepal",CHAG54101,Makalu,Khumbu-Rolwaling-Makalu,27.9263224,87.054382
+220,NUMR,Numri,Unknown,6635,Climbed,2002.0,Germany,NUMR02301,Khumbu,Khumbu-Rolwaling-Makalu,,
+221,PK41,Peak 41,"""True"" Mera Peak",6648,Climbed,2002.0,Slovenia,PK4102301,Khumbu,Khumbu-Rolwaling-Makalu,27.7743642,86.9080353
+222,KYAZ,Kyazo Ri,Kyajo Ri,6151,Climbed,2002.0,"UK, France",KYAZ02301,Khumbu,Khumbu-Rolwaling-Makalu,,
+223,PAND,Pandra,Unknown,6670,Climbed,2002.0,Denmark,PAND02301,Janak/Ohmi Kangri,Kangchenjunga-Janak,22.1202641,78.0381896
+224,DANG,Danga,Unknown,6220,Climbed,2002.0,Denmark,DANG02301,Janak/Ohmi Kangri,Kangchenjunga-Janak,13.223166,14.932821
+225,POKR,Pokharkang,Pokhar Khang,6372,Climbed,2002.0,"UK, Nepal",POKR02301,Damodar,Annapurna-Damodar-Peri,,
+226,NAG1,Nangpai Gosum I,"Nagpai Gosum I, Cho Aui",7321,Climbed,2017.0,Germany,NAG117301,Khumbu,Khumbu-Rolwaling-Makalu,28.0730974,86.6126597
+227,KGRI,Khangri Shar,Unknown,6792,Unclimbed,,Unknown,Unknown,Khumbu,Khumbu-Rolwaling-Makalu,,
+228,KGRW,Khangri West,Unknown,6658,Unclimbed,,Unknown,Unknown,Khumbu,Khumbu-Rolwaling-Makalu,28.0232747,86.8008551
+229,PURB,Purbung Himal,Putrung,6500,Unclimbed,,Unknown,Unknown,Damodar,Annapurna-Damodar-Peri,,
+230,TASH,Tashi Kang,Tashi Khang,6386,Climbed,2002.0,"Japan, Nepal",TASH02201,Mukut/Mustang,Dhaulagiri-Mukut,28.8547343,119.4039832
+231,TENR,Tengi Ragi Tau,"Agole, Angole",6938,Climbed,2002.0,"Japan, Nepal",TENR02401,Rolwaling,Khumbu-Rolwaling-Makalu,27.8577926,86.5532595
+232,KYAS,Kyashar,"Peak 43, Tangnag Tseng",6770,Climbed,2003.0,"UK, Austria, Swiss",KYAS03301,Khumbu,Khumbu-Rolwaling-Makalu,27.7548759,86.8223253
+233,NREK,Nirekha,Unknown,6159,Climbed,,Unknown,Unknown,Khumbu,Khumbu-Rolwaling-Makalu,27.9775114,86.7629029
+234,NORB,Norbu Kang,Norbu Khang,6085,Climbed,2003.0,"Japan, Nepal",NORB03201,Kanjiroba,Far West-Kanjiroba,47.4878471,3.9072732
+235,LNKE,Lunchhung Kamo East,Unknown,6024,Climbed,1999.0,"Japan, Nepal",LNKE99201,Kanti/Palchung,Far West-Kanjiroba,,
+236,LIK1,Linkhu Chuli Shar,"Bigphera-Go Shar, Pigpferago Shar, Linkhu Chuli I",6719,Climbed,2013.0,Germany,LIK113301,Rolwaling,Khumbu-Rolwaling-Makalu,,
+237,LIK2,Linkhu Chuli Nup,"Bigphera-Go Nup, Pigpferago Nup, Linkhu Chuli II",6659,Climbed,1960.0,"France, Nepal",LIK260301,Rolwaling,Khumbu-Rolwaling-Makalu,,
+238,PANT,Panalotapa,"Paniyo Tapa, Paniyo Tippa",6687,Climbed,1955.0,UK,PANT55101,Rolwaling,Khumbu-Rolwaling-Makalu,,
+239,SHAL,Shalbachum,"Salbachum, Phrul Rangtshan Ri",6707,Climbed,1959.0,"Japan, Nepal",SHAL59301,Langtang,Langtang-Jugal,28.2709798,85.6304978
+240,KHUM,Khumbutse,Unknown,6639,Unclimbed,,Unknown,Unknown,Khumbu,Khumbu-Rolwaling-Makalu,28.0219052,86.872193
+241,BOKT,Boktoh,Bokta,6114,Climbed,1991.0,Yugoslavia,BOKT91101,Kangchenjunga/Simhalila,Kangchenjunga-Janak,27.6204953,88.0063936
+242,MOJC,Mojca,Mojka,6024,Climbed,1974.0,Yugoslavia,MOJC74301,Kangchenjunga/Simhalila,Kangchenjunga-Janak,46.846394,25.104374
+243,PLNG,Palung,Palung Ri,7012,Climbed,1952.0,New Zealand,PLNG52101,Khumbu,Khumbu-Rolwaling-Makalu,-8.375752,112.680772
+244,TUTS,Tutse,"Peak 6, Nephu",6758,Unclimbed,,Unknown,Unknown,Makalu,Khumbu-Rolwaling-Makalu,53.1162756,5.8375011
+245,NUPE,Nuptse East I,Unknown,7795,Climbed,2003.0,Russia,NUPE03301,Khumbu,Khumbu-Rolwaling-Makalu,,
+246,AMOT,Amotsang,Amatson,6393,Unclimbed,,Unknown,Unknown,Damodar,Annapurna-Damodar-Peri,,
+247,YANS,Yansa Tsenji,"Dragpoche, Dhagpache",6567,Unclimbed,,Unknown,Unknown,Langtang,Langtang-Jugal,28.2564939,85.6055269
+248,HIMJ,Himjung,Nemjung Goth,7092,Climbed,2012.0,S Korea,HIMJ12301,Peri,Annapurna-Damodar-Peri,,
+249,AMPH,Amphu I,Unknown,6740,Climbed,2013.0,S Korea,AMPH13301,Khumbu,Khumbu-Rolwaling-Makalu,,
+250,CHAB,Chabuk,Tsajirip,6792,Unclimbed,,Unknown,Unknown,Janak/Ohmi Kangri,Kangchenjunga-Janak,27.8965508,87.9998611
+251,CHAK,Chako,Unknown,6704,Climbed,2007.0,"Japan, Nepal",CHAK07201,Damodar,Annapurna-Damodar-Peri,-20.4289101,32.6809123
+252,DOMK,Dome Kang,Unknown,7264,Climbed,2009.0,"Spain, Nepal",DOMK09101,Jongsang,Kangchenjunga-Janak,28.6073547,83.886437
+253,GHAN,Ghhanyala Hies,Unknown,6744,Unclimbed,,Unknown,Unknown,Janak/Ohmi Kangri,Kangchenjunga-Janak,,
+254,HUNK,Hunku,Unknown,6119,Climbed,2012.0,UK,HUNK12302,Khumbu,Khumbu-Rolwaling-Makalu,27.5991207,86.9088123
+255,JANK,Janak Chuli,"Janak, Outlier",7041,Climbed,2006.0,Slovenia,JANK06101,Janak/Ohmi Kangri,Kangchenjunga-Janak,27.873267,88.0910772
+256,KABS,Kabru South,Unknown,7318,Climbed,1994.0,India,KABS94101,Kangchenjunga/Simhalila,Kangchenjunga-Janak,,
+257,KABR,Kabru Main,Kabru Central,7412,Climbed,1994.0,India,KABR94101,Kangchenjunga/Simhalila,Kangchenjunga-Janak,,
+258,LASH,Lashar I,Loshar I,6842,Climbed,2005.0,Slovenia,LASH05301,Janak/Ohmi Kangri,Kangchenjunga-Janak,27.8971339,88.0543145
+259,LAS2,Lashar II,Loshar II,6803,Unclimbed,,Unknown,Unknown,Janak/Ohmi Kangri,Kangchenjunga-Janak,27.8874291,88.0627791
+260,NAG2,Nangpai Gosum II,"Nagpai Gosum II, Chamar",7287,Unclimbed,,Unknown,Unknown,Khumbu,Khumbu-Rolwaling-Makalu,28.070525,86.6355487
+261,NANG,Nangamari I,Unknown,6547,Climbed,2010.0,Australia,NANG10301,Janak/Ohmi Kangri,Kangchenjunga-Janak,,
+262,PANB,Panbari,Unknown,6905,Climbed,2006.0,Japan,PANB06301,Peri,Annapurna-Damodar-Peri,26.6165388,90.8327293
+263,PHNH,Phungi Himal,Unknown,6538,Climbed,2017.0,Russia,PHNH17301,Manaslu/Mansiri,Manaslu-Ganesh,,
+264,MARI,Mariyang,Unknown,6528,Unclimbed,,Unknown,Unknown,Kanti/Palchung,Far West-Kanjiroba,28.4875762,95.2171727
+265,TKRG,Takargo,Dragker-go,6771,Climbed,2010.0,USA,TKRG10101,Rolwaling,Khumbu-Rolwaling-Makalu,,
+266,THUL,Thulagi,Mansiri Himal,7059,Climbed,2015.0,Russia,THUL15301,Manaslu/Mansiri,Manaslu-Ganesh,28.51903395,84.54608703985988
+267,JOMS,Jomsom Himal,Jomsang Himal,6335,Climbed,2003.0,"France, Nepal",JOMS03301,Damodar,Annapurna-Damodar-Peri,,
+268,BAMO,Bamongo,Unknown,6406,Climbed,2013.0,"Nepal, China",BAMO13301,Rolwaling,Khumbu-Rolwaling-Makalu,,
+269,CHAW,Chaw Peak,Chaw East,6404,Unclimbed,,Unknown,Unknown,Janak/Ohmi Kangri,Kangchenjunga-Janak,,
+270,DING,Dingjung North,"Kangkuru, Rima Mancho",6249,Climbed,1955.0,UK,DING55101,Rolwaling,Khumbu-Rolwaling-Makalu,,
+271,KNAG,Kang Nagchugo,Khang Nagchugo,6737,Climbed,2008.0,USA,KNAG08301,Rolwaling,Khumbu-Rolwaling-Makalu,,
+272,KBON,Konabon,Kambon,6570,Unclimbed,,Unknown,Unknown,Dhaulagiri,Dhaulagiri-Mukut,28.6599965,83.3048561
+273,KHAM,Khamjung,"Khumjung, Khamjungar",6759,Climbed,1982.0,Japan,Unknown,Damodar,Annapurna-Damodar-Peri,,
+274,KYR1,Kyungka Ri 1,Kyungya Ri 1,6599,Climbed,2017.0,S Korea,KYR117301,Langtang,Langtang-Jugal,28.2968281,85.6677275
+275,KYR2,Kyungka Ri 2,Kyungya Ri 2,6506,Unclimbed,,Unknown,Unknown,Langtang,Langtang-Jugal,28.3031784,85.6624294
+276,KOJI,Kojichuwa Chuli,Unknown,6439,Climbed,2010.0,Japan,KOJI10101,Kanti/Palchung,Far West-Kanjiroba,,
+277,CHIV,Chhiv Himal,Chhib Himal,6650,Climbed,2004.0,Japan,CHIV04301,Damodar,Annapurna-Damodar-Peri,28.8736293,84.1598835
+278,LMOC,Langmoche Ri,Unknown,6552,Climbed,2012.0,USA,LMOC12301,Rolwaling,Khumbu-Rolwaling-Makalu,,
+279,LCHA,Lachama Chuli,"Kubi Kangri, Kubi Dongdong",6721,Climbed,2007.0,Japan,LCHA07301,Nalakankar/Chandi/Changla,Far West-Kanjiroba,,
+280,PAN1,Panpoche 1,"Pang Phunch 1, Kutang Himal",6620,Unclimbed,,Unknown,Unknown,Manaslu/Mansiri,Manaslu-Ganesh,,
+281,PAN2,Panpoche 2,Pang Phunch 2,6504,Unclimbed,,Unknown,Unknown,Manaslu/Mansiri,Manaslu-Ganesh,,
+282,PHOL,Phole,Unknown,6645,Unclimbed,,Unknown,Unknown,Kangchenjunga/Simhalila,Kangchenjunga-Janak,44.5017312,-80.2320581
+283,PHUK,Phu Kang,Phu Khang,6694,Unclimbed,,Unknown,Unknown,Peri,Annapurna-Damodar-Peri,44.1497919,87.9684506
+284,LNGK,Langchung Khang,Langpo Chung,6786,Unclimbed,,Unknown,Unknown,Jongsang,Kangchenjunga-Janak,27.8562819,88.1778517
+285,PK04,Peak 4,Shershon Ri,6736,Unclimbed,,Unknown,Unknown,Khumbu,Khumbu-Rolwaling-Makalu,39.5216376,-106.1213832
+286,NAM2,Nampa II,Unknown,6585,Unclimbed,,Unknown,Unknown,Api/Byas Risi/Guras,Far West-Kanjiroba,43.5737361,-116.559631
+287,NAM3,Nampa III,Nampa Chuli,6611,Unclimbed,,Unknown,Unknown,Api/Byas Risi/Guras,Far West-Kanjiroba,,
+288,NAMS,Nampa South,Unknown,6130,Unclimbed,,Unknown,Unknown,Api/Byas Risi/Guras,Far West-Kanjiroba,42.77489,-114.712664
+289,SOBI,Sobithongie,Unknown,6652,Unclimbed,,Unknown,Unknown,Kangchenjunga/Simhalila,Kangchenjunga-Janak,,
+290,SHER,Shershon,Peak 3,6432,Unclimbed,,Unknown,Unknown,Makalu,Khumbu-Rolwaling-Makalu,,
+291,SWAK,Swaksa Kang,Unknown,6405,Unclimbed,,Unknown,Unknown,Kanti/Palchung,Far West-Kanjiroba,,
+292,TILJ,Tilje,Unknown,6530,Unclimbed,,Unknown,Unknown,Peri,Annapurna-Damodar-Peri,59.47805,11.2763056
+293,TSAR,Tsartse,Unknown,6343,Climbed,2018.0,"Japan, Nepal",TSAR18301,Mukut/Mustang,Dhaulagiri-Mukut,,
+294,YAKA,Yakawa Kang,Unknown,6482,Climbed,2010.0,"Japan, Nepal",YAKA10301,Damodar,Annapurna-Damodar-Peri,28.8089011,83.9419335
+295,YAUP,Yaupa,Unknown,6422,Climbed,1989.0,"UK, USA",YAUP89301,Makalu,Khumbu-Rolwaling-Makalu,27.8369699,87.140792
+296,TILK,Til Kang,Unknown,6369,Climbed,2018.0,UK,TILK18301,Nalakankar/Chandi/Changla,Far West-Kanjiroba,47.5155368,5.1753631
+297,YOKO,Yokopahar,Nampa VIII,6423,Unclimbed,,Unknown,Unknown,Api/Byas Risi/Guras,Far West-Kanjiroba,,
+298,SALW,Saldim West,"Peak 5, Saldim Ri, Yaphu Ri",6388,Climbed,2016.0,Romania,SALW16301,Makalu,Khumbu-Rolwaling-Makalu,27.824774,87.1567343
+299,SAMD,Samdo,Unknown,6335,Climbed,2009.0,Japan,SAMD09302,Manaslu/Mansiri,Manaslu-Ganesh,31.2085649,96.6000342
+300,PURK,Purkhung,"Purkhang, Purkung",6126,Climbed,2004.0,Japan,PURK04201,Damodar,Annapurna-Damodar-Peri,,
+301,DZAS,Dzasampatse,Unknown,6295,Climbed,2004.0,Slovenia,DZAS04301,Khumbu,Khumbu-Rolwaling-Makalu,,
+302,SWEL,Swelokhan,Unknown,6180,Unclimbed,,Unknown,Unknown,Manaslu/Mansiri,Manaslu-Ganesh,,
+303,MUPK,Mustang Peak,Unknown,6229,Climbed,2001.0,"Japan, Nepal",MUPK01301,Mukut/Mustang,Dhaulagiri-Mukut,31.6934231,-110.4764662
+304,JING,Jinjang,"Genjang, Gajang, Jijang",6111,Climbed,,Unknown,Unknown,Damodar,Annapurna-Damodar-Peri,3.2113057,101.6583226
+305,JOBO,Jobo Rinjang,Jobo Ribjang,6778,Climbed,2009.0,USA,JOBO09101,Rolwaling,Khumbu-Rolwaling-Makalu,28.0430653,86.563291
+306,KYAB,Kyabura,"Ghabur, Temachungi",6294,Unclimbed,,Unknown,Unknown,Kangchenjunga/Simhalila,Kangchenjunga-Janak,,
+307,KUML,Kumlung,Kang Kuru?,6355,Climbed,2008.0,France,KUML08301,Damodar,Annapurna-Damodar-Peri,,
+308,DGAR,Dhaulagari,Dhaulasiri,6638,Unclimbed,,Unknown,Unknown,Api/Byas Risi/Guras,Far West-Kanjiroba,29.9508758,81.1198978
+309,LHAY,Lhayul Peak,Unknown,6395,Unclimbed,,Unknown,Unknown,Api/Byas Risi/Guras,Far West-Kanjiroba,,
+310,MERR,Merra,Unknown,6334,Climbed,2006.0,Denmark,MERR06301,Kangchenjunga/Simhalila,Kangchenjunga-Janak,66.91177635,13.353994728163736
+311,PBUK,Pabuk Kang,Kangata,6244,Unclimbed,,Unknown,Unknown,Janak/Ohmi Kangri,Kangchenjunga-Janak,,
+312,YANK,Yanme Kang,Yanme Khang,6206,Climbed,2017.0,France,YANK17301,Janak/Ohmi Kangri,Kangchenjunga-Janak,,
+313,DANS,Danphe Shail,Danfe Shail,6103,Climbed,2017.0,"France, Nepal",DANS17301,Kanti/Palchung,Far West-Kanjiroba,29.6720812,83.0083371
+314,GAN7,Ganesh VII,Unknown,6350,Unclimbed,,Unknown,Unknown,Ganesh/Shringi,Manaslu-Ganesh,28.3916458,85.1867974
+315,PHAR,Pharilapcha,Unknown,6017,Climbed,2003.0,Nepal,PHAR03101,Khumbu,Khumbu-Rolwaling-Makalu,,
+316,THOR,Thorong Peak,Thorung Peak,6144,Climbed,2007.0,"Japan, Nepal",THOR07301,Annapurna,Annapurna-Damodar-Peri,28.7819689,83.9268777
+317,CHKA,Chamar Kang,"Chharka, Kangtega",6060,Climbed,2007.0,"Japan, Nepal",CHKA07301,Mukut/Mustang,Dhaulagiri-Mukut,28.1986704,89.7695918
+318,NUPK,Nupche Kang,"Friendship Peak, Nupche Himal",6576,Climbed,1964.0,"W Germany, Nepal",NUPK64101,Khumbu,Khumbu-Rolwaling-Makalu,,
+319,PUCH,Punchen Himal,Puchen Himal,6049,Unclimbed,,Unknown,Unknown,Ganesh/Shringi,Manaslu-Ganesh,,
+320,KAKU,Kang Kuru,Unknown,6344,Climbed,2008.0,USA,KAKU08101,Mukut/Mustang,Dhaulagiri-Mukut,47.4115613,2.9273937
+321,AMPM,Amphu Middle,Amphu North,6202,Climbed,2008.0,Germany,AMPM08101,Khumbu,Khumbu-Rolwaling-Makalu,,
+322,LUGU,Lugula,Unknown,6899,Climbed,2010.0,France,LUGU10301,Damodar,Annapurna-Damodar-Peri,28.8905703,84.2446501
+323,BHRS,Bhrikuti Shail,Unknown,6361,Climbed,2005.0,"France, Nepal",BHRS05101,Damodar,Annapurna-Damodar-Peri,28.893082,84.2261556
+324,MYAG,Myagdi Matha,Unknown,6273,Unclimbed,,Unknown,Unknown,Dhaulagiri,Dhaulagiri-Mukut,,
+325,TOBS,Tobsar,Tabsar,6065,Climbed,2017.0,Nepal,TOBS17301,Ganesh/Shringi,Manaslu-Ganesh,,
+326,DINS,Dingjung Ri,Dingjung Ri South,6196,Climbed,2008.0,Japan,DINS08101,Rolwaling,Khumbu-Rolwaling-Makalu,,
+327,DUDH,Dudh Kundali,"Dui Tal Chuli, Two Lakes Peak",6045,Climbed,1953.0,"Austria, Nepal, India",DUDH53301,Kanjiroba,Far West-Kanjiroba,,
+328,KAGA,Kanta Gaton,Kangfu Gaton,5910,Climbed,2009.0,"France, Nepal",KAGA09201,Kanjiroba,Far West-Kanjiroba,,
+329,KAPT,Kaptang,Unknown,5965,Climbed,2009.0,"Japan, Nepal",KAPT09201,Kanti/Palchung,Far West-Kanjiroba,1.3561716,34.5833391
+330,ROMA,Roma,Unknown,5407,Unclimbed,,Unknown,Unknown,Saipal,Far West-Kanjiroba,41.8933203,12.4829321
+331,RIPI,Ripimo Shar,"Khang Karpo, Kang Karpo",6647,Climbed,1952.0,UK,RIPI52101,Rolwaling,Khumbu-Rolwaling-Makalu,,
+332,TSIS,Tsisima,"Chijima, MDM Peak",6196,Climbed,1963.0,"Japan, Nepal",TSIS63101,Janak/Ohmi Kangri,Kangchenjunga-Janak,,
+333,TAWA,Tawa,Unknown,6110,Climbed,2010.0,"Japan, Nepal",TAWA10301,Damodar,Annapurna-Damodar-Peri,53.4631552,-113.427559
+334,URMA,Urkema,"Baden Powell Scout Peak, Urgyenma",5890,Climbed,2007.0,"Taiwan, S Korea, Singapore, Australia, Nepal",URMA07301,Langtang,Langtang-Jugal,28.1675861,85.5333835
+335,MPNW,Manapathi NW,Unknown,6384,Climbed,1977.0,"Italy, UK, W Germany",MPNW77101,Dhaulagiri,Dhaulagiri-Mukut,,
+336,LUNR,Lunag Ri,"Lunag I, Rongshar Ri I, Ondrej Peak",6895,Unclimbed,,Unknown,Unknown,Rolwaling,Khumbu-Rolwaling-Makalu,28.0515398,86.5497351
+337,JASG,Jasemba Goth,Dzasampa Kang,6730,Climbed,1964.0,W Germany,JASG64101,Khumbu,Khumbu-Rolwaling-Makalu,,
+338,GOJN,Gojung,Mugu Chuli,6310,Climbed,2011.0,UK,GOJN11301,Kanti/Palchung,Far West-Kanjiroba,,
+339,NAN2,Nangamari II,Unknown,6209,Climbed,2016.0,Japan,NAN216301,Janak/Ohmi Kangri,Kangchenjunga-Janak,,
+340,DRAG,Dragmorpa Ri,"Thakmarpo Ri, Panaya Tippa",6185,Climbed,2013.0,Russia,DRAG13101,Langtang,Langtang-Jugal,28.325673,85.6614726
+341,SYKG,Syaokang,Unknown,5929,Climbed,2012.0,New Zealand,SYKG12301,Janak/Ohmi Kangri,Kangchenjunga-Janak,,
+342,BIJO,Bijora Hiunchuli,Unknown,6111,Unclimbed,,Unknown,Unknown,Kanjiroba,Far West-Kanjiroba,,
+343,CHUB,Chhuboche,Unknown,5606,Climbed,2013.0,UK,CHUB13301,Damodar,Annapurna-Damodar-Peri,,
+344,LUNW,Lunag West,Unknown,6492,Climbed,2013.0,USA,LUNW13301,Rolwaling,Khumbu-Rolwaling-Makalu,,
+345,DOMO,Domo,Jongsang SE Peak,7447,Climbed,1930.0,"Germany, Nepal",DOMO30101,Jongsang,Kangchenjunga-Janak,43.401661,13.0608279
+346,LUN2,Lunag II,Unknown,6812,Climbed,2010.0,France,LUN210301,Rolwaling,Khumbu-Rolwaling-Makalu,16.659415,121.3687764
+347,TRIA,Triangle Peak,Unknown,6484,Climbed,2013.0,France,TRIA13301,Jugal,Langtang-Jugal,58.5717118,-134.5169546
+348,KASI,Kasi Dalpha,Unknown,6386,Unclimbed,,Unknown,Unknown,Kanjiroba,Far West-Kanjiroba,29.2833423,82.5527126
+349,NPHU,Narphu,Unknown,5921,Climbed,2014.0,"UK, Nepal",NPHU14301,Damodar,Annapurna-Damodar-Peri,28.7351873,84.2227593158855
+350,POTA,Pota Himal North,Peak Hawley,6182,Climbed,2008.0,France,POTA08101,Dhaulagiri,Dhaulagiri-Mukut,,
+351,PANN,Pangbuk North,Jobo LeCoultre,6478,Climbed,2013.0,USA,PANN13301,Rolwaling,Khumbu-Rolwaling-Makalu,,
+352,MUST,Mustang Himal,Unknown,6195,Climbed,2014.0,USA,MUST14301,Mukut/Mustang,Dhaulagiri-Mukut,29.2041398,83.79648069162491
+353,MNSL,Mansail,Manshail,6235,Climbed,2014.0,Japan,MNSL14301,Mukut/Mustang,Dhaulagiri-Mukut,54.3262057,-4.384247315088761
+354,CPHU,Chhochenphu Himal,Unknown,6260,Unclimbed,,Unknown,Unknown,Janak/Ohmi Kangri,Kangchenjunga-Janak,,
+355,TANK,Tankya I,Unknown,6305,Unclimbed,,Unknown,Unknown,Kanti/Palchung,Far West-Kanjiroba,,
+356,GORK,Gorakh Khang,Unknown,6254,Unclimbed,,Unknown,Unknown,Nalakankar/Chandi/Changla,Far West-Kanjiroba,,
+357,RAUN,Raungsiyar,Unknown,6224,Climbed,2015.0,Nepal,RAUN15301,Rolwaling,Khumbu-Rolwaling-Makalu,,
+358,LDAK,Langdak,Unknown,6220,Climbed,2015.0,Nepal,LDAK15301,Rolwaling,Khumbu-Rolwaling-Makalu,,
+359,TKRE,Takargo East,"Thakar Go East, Dragker-go East",6152,Climbed,2015.0,Nepal,TKRE15301,Rolwaling,Khumbu-Rolwaling-Makalu,,
+360,OMIT,Omitso Go,Omi Tso Go,6332,Unclimbed,,Unknown,Unknown,Rolwaling,Khumbu-Rolwaling-Makalu,,
+361,CBAM,Chhopa Bamare,Chomo Pamari,6109,Climbed,2019.0,"USA, France",CBAM18401,Rolwaling,Khumbu-Rolwaling-Makalu,,
+362,YALW,Yalung Kang West,Unknown,8077,Unclimbed,,Unknown,Unknown,Kangchenjunga/Simhalila,Kangchenjunga-Janak,27.7051678,88.1377837
+363,KANN,Kangchenjunga North,Unknown,7938,Unclimbed,,Unknown,Unknown,Kangchenjunga/Simhalila,Kangchenjunga-Janak,27.7877856,88.1099862
+364,KBNE,Kangbachen East,Kambachen East,7780,Unclimbed,,Unknown,Unknown,Kangchenjunga/Simhalila,Kangchenjunga-Janak,,
+365,HERZ,Herzog Peak,Khangsar Khang West,7555,Climbed,,Unknown,Unknown,Annapurna,Annapurna-Damodar-Peri,31.1757266,-97.943358
+366,GANW,Gangapurna West,"Lachenal Peak, Asapurna",7140,Unclimbed,,Unknown,Unknown,Annapurna,Annapurna-Damodar-Peri,,
+367,CHMR,Chamar,Shringi Himal,7161,Unclimbed,,Unknown,Unknown,Ganesh/Shringi,Manaslu-Ganesh,28.07477,86.6498478
+368,NGAP,Nepal Gap Peak,Nepal Gyap Peak,7007,Unclimbed,,Unknown,Unknown,Kangchenjunga/Simhalila,Kangchenjunga-Janak,,
+369,GAUS,Gaurishankar South,Gauri,7010,Climbed,1979.0,UK,GAUS79301,Rolwaling,Khumbu-Rolwaling-Makalu,,
+370,BURK,Burke Kang,Burke Khang,6942,Climbed,2017.0,"Ireland, Nepal",BURK17301,Khumbu,Khumbu-Rolwaling-Makalu,28.0376525,86.7725506
+371,HMLE,Himlung East,Unknown,6932,Climbed,2017.0,"France, Nepal",HMLE17101,Peri,Annapurna-Damodar-Peri,,
+372,YNGS,Yangra Kangri South,"Yangra South, Ganesh I South",6863,Unclimbed,,Unknown,Unknown,Ganesh/Shringi,Manaslu-Ganesh,,
+373,NUPL,Nup La Kang,Nupla Khang,6861,Climbed,2018.0,"USA, Norway",NUPL18301,Khumbu,Khumbu-Rolwaling-Makalu,,
+374,CHUM,Chumbu,Unknown,6859,Unclimbed,,Unknown,Unknown,Khumbu,Khumbu-Rolwaling-Makalu,28.0136395,86.7878294
+375,PHUG,Phu Kang Go,"Phu Khang Go, Athahra Saya Khola Himal",6767,Climbed,2011.0,"France, Belgium",PHUG11301,Peri,Annapurna-Damodar-Peri,,
+376,GURA,Guras,Unknown,6744,Unclimbed,,Unknown,Unknown,Api/Byas Risi/Guras,Far West-Kanjiroba,49.4549014,21.6932457
+377,THRK,Tharke Kang,Tharke Khang,6710,Climbed,2017.0,"USA, Nepal",THRK17301,Khumbu,Khumbu-Rolwaling-Makalu,28.0451484,86.7491412
+378,HUGO,Hulang Go,Unknown,6687,Unclimbed,,Unknown,Unknown,Peri,Annapurna-Damodar-Peri,,
+379,SHNW,Shershon Northwest,Unknown,6682,Climbed,1980.0,"UK, France",SHNW80301,Makalu,Khumbu-Rolwaling-Makalu,,
+380,AGLE,Agole East,Angole East,6675,Unclimbed,,Unknown,Unknown,Rolwaling,Khumbu-Rolwaling-Makalu,,
+381,ROLK,Rolwaling Kang,Rolwaling Khang,6664,Climbed,2016.0,Japan,ROLK16301,Rolwaling,Khumbu-Rolwaling-Makalu,,
+382,YARW,Yarwa,Unknown,6644,Unclimbed,,Unknown,Unknown,Api/Byas Risi/Guras,Far West-Kanjiroba,13.8843019,14.9816835
+383,YANG,Yangri,Jugal,6535,Unclimbed,,Unknown,Unknown,Jugal,Langtang-Jugal,31.7357717,110.8170658
+384,LCHN,Lachama North,Unknown,6628,Unclimbed,,Unknown,Unknown,Nalakankar/Chandi/Changla,Far West-Kanjiroba,,
+385,CHNG,Changdi,Unknown,6623,Unclimbed,,Unknown,Unknown,Kanti/Palchung,Far West-Kanjiroba,29.7190109,82.7985072
+386,GOLD,Goldum Peak,Pangri Goldumba,6632,Unclimbed,,Unknown,Unknown,Jugal,Langtang-Jugal,28.3255179,85.7318419
+387,THOC,Thoche Go,Unknown,6602,Unclimbed,,Unknown,Unknown,Peri,Annapurna-Damodar-Peri,,
+388,KCHS,Kangchung Shar,"Khangchung, Kangcho Shar, UIAA Peak",6063,Climbed,1984.0,Yugoslavia,KCHS84301,Khumbu,Khumbu-Rolwaling-Makalu,,
+389,PHUN,Phu Kang North,Phu Khang North,6580,Unclimbed,,Unknown,Unknown,Peri,Annapurna-Damodar-Peri,,
+390,PTHE,Pethangtse East,Unknown,6572,Climbed,2008.0,UK,PTHE08101,Khumbu,Khumbu-Rolwaling-Makalu,,
+391,PHNG,Phungi,Unknown,6524,Unclimbed,,Unknown,Unknown,Peri,Annapurna-Damodar-Peri,36.89142,128.50935
+392,KNTE,Kanti Himal East,Unknown,6516,Unclimbed,,Unknown,Unknown,Kanti/Palchung,Far West-Kanjiroba,,
+393,JARK,Jarkya,Unknown,6473,Unclimbed,,Unknown,Unknown,Manaslu/Mansiri,Manaslu-Ganesh,,
+394,MARW,Mariyang West,Unknown,6455,Unclimbed,,Unknown,Unknown,Kanti/Palchung,Far West-Kanjiroba,,
+395,MAYT,Mayonthang Kang,Mayun Thang Khang,6449,Unclimbed,,Unknown,Unknown,Kanti/Palchung,Far West-Kanjiroba,,
+396,LNJU,Langju,Lajo Dada,6426,Climbed,2017.0,Japan,LNJU17301,Ganesh/Shringi,Manaslu-Ganesh,32.33333,80.33333
+397,JYAC,Jyachhung,Unknown,6338,Unclimbed,,Unknown,Unknown,Api/Byas Risi/Guras,Far West-Kanjiroba,,
+398,GYLA,Gyala,Unknown,6363,Unclimbed,,Unknown,Unknown,Manaslu/Mansiri,Manaslu-Ganesh,27.37904615,89.93381399007805
+399,DOLM,Dolma Khang,Tseringma,6332,Climbed,1980.0,"Australia, Nepal",DOLM80101,Rolwaling,Khumbu-Rolwaling-Makalu,,
+400,KAIP,Kaipuchonam,Unknown,6329,Unclimbed,,Unknown,Unknown,Kanti/Palchung,Far West-Kanjiroba,,
+401,LDNG,Langdung,Ripumutse,6326,Climbed,2017.0,Nepal,LDNG17401,Rolwaling,Khumbu-Rolwaling-Makalu,27.9483125,86.4805877
+402,DZA2,Dzanye II,Unknown,6318,Climbed,2015.0,Japan,DZA215301,Janak/Ohmi Kangri,Kangchenjunga-Janak,,
+403,PAMA,Pama Himal,Unknown,6300,Unclimbed,,Unknown,Unknown,Ganesh/Shringi,Manaslu-Ganesh,,
+404,PERH,Peri Himal,Unknown,6296,Unclimbed,,Unknown,Unknown,Peri,Annapurna-Damodar-Peri,28.742675300000002,84.43637946068736
+405,TAKL,Takla Kang,Takla Khang,6276,Unclimbed,,Unknown,Unknown,Kanti/Palchung,Far West-Kanjiroba,,
+406,KOGI,Kogi Khang North,Kogi Kang North,6275,Unclimbed,,Unknown,Unknown,Kanti/Palchung,Far West-Kanjiroba,,
+407,ASAJ,Asajya Tuppa,Unknown,6265,Unclimbed,,Unknown,Unknown,Nalakankar/Chandi/Changla,Far West-Kanjiroba,30.062506,82.278339
+408,KOJS,Kojichuwa South,Unknown,6264,Unclimbed,,Unknown,Unknown,Kanti/Palchung,Far West-Kanjiroba,,
+409,PKAR,Pankar Himal,Unknown,6264,Climbed,2018.0,Japan,PKAR18101,Manaslu/Mansiri,Manaslu-Ganesh,,
+410,SAUL,Saula,Unknown,6235,Unclimbed,,Unknown,Unknown,Manaslu/Mansiri,Manaslu-Ganesh,59.215722799999995,25.035680616708433
+411,YARA,Yala Chuli,Yara Chuli,6236,Unclimbed,,Unknown,Unknown,Kanti/Palchung,Far West-Kanjiroba,,
+412,RHIM,Rhimbu,Unknown,6210,Unclimbed,,Unknown,Unknown,Ganesh/Shringi,Manaslu-Ganesh,,
+413,SANC,Sanctuary Peak,Unknown,6207,Unclimbed,,Unknown,Unknown,Kanjiroba,Far West-Kanjiroba,-34.2617,18.8783
+414,LASA,Lasa,Unknown,6189,Unclimbed,,Unknown,Unknown,Api/Byas Risi/Guras,Far West-Kanjiroba,43.1571441,-1.2601799
+415,PERI,Peri,Unknown,6174,Climbed,2016.0,"Italy, Nepal",PERI16301,Langtang,Langtang-Jugal,42.0049775,8.920963
+416,DWIJ,Dwijen Himal,Unknown,6169,Unclimbed,,Unknown,Unknown,Ganesh/Shringi,Manaslu-Ganesh,,
+417,JABR,Jabou Ri,Unknown,6166,Climbed,2015.0,USA,JABR15301,Rolwaling,Khumbu-Rolwaling-Makalu,,
+418,BEDG,Beding Go,Bedding Go,6125,Climbed,2015.0,"Nepal, Canada, Brazil, Ireland",BEDG15301,Rolwaling,Khumbu-Rolwaling-Makalu,,
+419,TAKN,Takphu North,Unknown,6142,Climbed,2016.0,"Germany, Nepal",TAKN16301,Nalakankar/Chandi/Changla,Far West-Kanjiroba,,
+420,BHUL,Bhulu Lhasa,Unknown,6102,Climbed,1964.0,"UK, Nepal",BHUL64301,Kanjiroba,Far West-Kanjiroba,,
+421,LNAK,Lhonak,Rifil Peak,6070,Unclimbed,,Unknown,Unknown,Janak/Ohmi Kangri,Kangchenjunga-Janak,27.7900712,88.0356137
+422,ROLM,Rolmi,Unknown,6056,Climbed,2017.0,Nepal,ROLM17301,Ganesh/Shringi,Manaslu-Ganesh,,
+423,ACHN,Aichyn,"Aychin, Ashvin",6055,Climbed,2015.0,Japan,ACHN15301,Nalakankar/Chandi/Changla,Far West-Kanjiroba,,
+424,ARDN,Ardang,Unknown,6034,Unclimbed,,Unknown,Unknown,Nalakankar/Chandi/Changla,Far West-Kanjiroba,,
+425,LUNG,Lungchhung,Unknown,6043,Unclimbed,,Unknown,Unknown,Kanti/Palchung,Far West-Kanjiroba,27.126028650000002,87.22887648758756
+426,KHNG,Khung,Unknown,6024,Unclimbed,,Unknown,Unknown,Kanti/Palchung,Far West-Kanjiroba,28.3662577,82.742017
+427,CHND,Chandi Himal,Unknown,6142,Unclimbed,,Unknown,Unknown,Nalakankar/Chandi/Changla,Far West-Kanjiroba,,
+428,KALI,Kali Himal,"Chota Ri, Baruntse North",6985,Climbed,1983.0,Netherlands,KALI83101,Khumbu,Khumbu-Rolwaling-Makalu,27.8778307,86.9735934
+429,DHEC,Dhechyan Khang,Unknown,6019,Climbed,2018.0,"Austria, Germany, Nepal",DHEC18101,Damodar,Annapurna-Damodar-Peri,,
+430,EKRA,Ek Rate Danda,Unknown,6213,Unclimbed,,Unknown,Unknown,Khumbu,Khumbu-Rolwaling-Makalu,,
+431,GHYN,Ghyun Himal I,Unknown,6110,Unclimbed,,Unknown,Unknown,Mukut/Mustang,Dhaulagiri-Mukut,,
+432,GORH,Gorakh Himal,Unknown,6198,Unclimbed,,Unknown,Unknown,Nalakankar/Chandi/Changla,Far West-Kanjiroba,29.804933650000002,82.2025299286638
+433,HONK,Hongku,"Hongku Chuli Nup, Honku, Sura Peak",6764,Climbed,2015.0,France,HONK15301,Khumbu,Khumbu-Rolwaling-Makalu,,
+434,KARK,Karko,Unknown,6015,Unclimbed,,Unknown,Unknown,Saipal,Far West-Kanjiroba,28.5687025,95.0570261
+435,KARS,Karsang Kang,Kharsang,6225,Climbed,2008.0,France,KARS08301,Damodar,Annapurna-Damodar-Peri,,
+436,KHAY,Khayang,Unknown,6186,Unclimbed,,Unknown,Unknown,Manaslu/Mansiri,Manaslu-Ganesh,28.6334205,84.7134244
+437,GYLZ,Gyalzen Peak,Gyaltsen Peak,6151,Climbed,2019.0,Nepal,GYLZ19101,Jugal,Langtang-Jugal,,
+438,LSAM,Lungsampa,"Lung Sampa, Lumsumna",6500,Climbed,2014.0,Spain,Unknown,Khumbu,Khumbu-Rolwaling-Makalu,,
+439,MERS,Mera South,Unknown,6064,Unclimbed,,Unknown,Unknown,Khumbu,Khumbu-Rolwaling-Makalu,7.2723152,36.3315245
+440,PASH,Pashuwo,Pashubo,6177,Unclimbed,,Unknown,Unknown,Ganesh/Shringi,Manaslu-Ganesh,28.5327541,85.1663861
+441,SATO,Sat Peak,Sato Peak,6164,Unclimbed,,Unknown,Unknown,Janak/Ohmi Kangri,Kangchenjunga-Janak,45.136294,13.9404374
+442,TSKP,Tso Karpo,Unknown,6518,Unclimbed,,Unknown,Unknown,Kanjiroba,Far West-Kanjiroba,28.7131787,93.55796649032814
+443,SPH2,Sharphu II,Tanga II,6328,Climbed,201.0,USA,SPH218301,Janak/Ohmi Kangri,Kangchenjunga-Janak,,
+444,SPH3,Sharphu III,Marson,6220,Unclimbed,,Unknown,Unknown,Janak/Ohmi Kangri,Kangchenjunga-Janak,,
+445,SPH4,Sharphu IV,Nupchu,6172,Climbed,1962.0,Japan,SPH462101,Janak/Ohmi Kangri,Kangchenjunga-Janak,,
+446,SPH5,Sharphu V,Tanga III,6158,Unclimbed,,Unknown,Unknown,Janak/Ohmi Kangri,Kangchenjunga-Janak,,
+447,SPH6,Sharphu VI,Unknown,6076,Unclimbed,,Unknown,Unknown,Janak/Ohmi Kangri,Kangchenjunga-Janak,,
+448,MNSS,Mansail South,Manshail South,6248,Unclimbed,,Unknown,Unknown,Mukut/Mustang,Dhaulagiri-Mukut,,
+449,GDNG,Gave Ding,Unknown,6581,Climbed,2015.0,UK,GDNG15301,Unknown,Unknown,,
+450,NGO3,Ngojumba Kang III,Hillary Peak,7681,Unclimbed,,Unknown,Unknown,Khumbu,Khumbu-Rolwaling-Makalu,,
+451,KIMS,Kimshung,"Kinshung, Tsangbu Ri",6781,Unclimbed,,Unknown,Unknown,Langtang,Langtang-Jugal,28.2722575,85.5526252
+452,PAWR,Pawar Central,Chaar Baatsa,6621,Climbed,2015.0,France,PAWR15101,Peri,Annapurna-Damodar-Peri,,
+453,NGOR,Nagoru,Unknown,6165,Climbed,2016.0,"Austria, Nepal",NGOR16301,Peri,Annapurna-Damodar-Peri,,
+454,SALD,Saldim,Unknown,6374,Unclimbed,,Unknown,Unknown,Makalu,Khumbu-Rolwaling-Makalu,27.8225338,87.169512
+455,LANY,Langtang Yubra,Yubra Himal,6048,Unclimbed,2018.0,"Australia, Netherands, Nepal",LANY18301,Langtang,Langtang-Jugal,,
+456,LARK,Larkya Peak,"Granite Peak, Naike Peak",6416,Climbed,2017.0,Georgia,LARK17301,Manaslu/Mansiri,Manaslu-Ganesh,28.6279873,84.5435306
+457,NUPW,Nuptse West II,Nuptse Nup II,7732,Climbed,,Unknown,Unknown,Unknown,Unknown,,
+458,TENE,Tengi Ragi Tau East,Unknown,6675,Climbed,2005.0,France,TENE05301,Unknown,Unknown,,
+459,NILE,Nilgiri East,Unknown,6698,Climbed,1970.0,Spain,Unknown,Unknown,Unknown,18.9774445,72.8358605
+460,PEMR,Pemthang Ri,Unknown,6743,Unclimbed,,Unknown,Unknown,Unknown,Unknown,28.2992576,85.736021
+461,FUTI,Futi Himal,Unknown,6425,Climbed,2014.0,Portugal,FUTI14101,Damodar,Annapurna-Damodar-Peri,,
+462,SANB,Sano Bhrikuti,Unknown,6328,Climbed,2017.0,Switzerland,BHRS17101,Damodar,Khumbu-Rolwaling-Makalu,,
+463,SANK,Sano Kailash,Unknown,6452,Climbed,2019.0,"Austria, Nepal",SANK19101,Damodar,Annapurna-Damodar-Peri,27.675545,85.3609485
+464,TARS,Tarke Kang Shar,Tare Kang,7069,Climbed,1981.0,"Italy, Nepal",TARS81301,Unknown,Unknown,,
+465,KORL,Korlang Pari Tippa,Korlang Pari Tippa North,5738,Unclimbed,,Unknown,Unknown,Unknown,Unknown,,
+466,JANE,Jannu East,Khumbhakarna East,7460,Unclimbed,,Unknown,Unknown,Kangchenjunga/Simhalila,Kangchenjunga-Janak,,
+467,YUBR,Yubra,Unknown,6264,Unclimbed,,Unknown,Unknown,Langtang,Langtang-Jugal,28.0049343,85.300912

@@ -1,0 +1,323 @@
+openapi: 3.0.3
+info:
+  title: Himalaya dataset API
+  description: |-
+    This API exposes the Himalaya dataset :
+    The [Himalaya dataset](https://www.kaggle.com/datasets/majunbajun/himalayan-climbing-expeditions): 
+    
+    
+    The Himalayan Database is a compilation of records for all expeditions that have climbed in the Nepal Himalaya. The database is based on the expedition archives of Elizabeth Hawley, a longtime journalist based in Kathmandu, and it is supplemented by information gathered from books, alpine journals and correspondence with Himalayan climbers.
+    The data cover all expeditions from 1905 through Spring 2019 to more than 465 significant peaks in Nepal. Also included are expeditions to both sides of border peaks such as Everest, Cho Oyu, Makalu and Kangchenjunga as well as to some smaller border peaks. Data on expeditions to trekking peaks are included for early attempts, first ascents and major accidents
+  contact: camille
+  email: nivault.ruiz.c@hotmail.fr
+  license:
+    name: CC BY-NC 3.0
+    url: https://creativecommons.org/licenses/by-nc/3.0/
+  version: 1.0.0
+paths:
+  /peaks:
+    get:
+      summary: Get all peaks
+      description: Return all the information about the peak in Himalaya
+      parameters:
+        - name: page
+          in: query
+          example: 0
+          description: Index of the page (used for pagination)
+          schema:
+            type: integer
+        - name: page_size
+          in: query
+          example: 100
+          description: Number of peak per page (used for pagination)
+          schema:
+            type: integer
+        - name: include_details
+          in: query
+          example: 0
+          description: Whether or not to include some details about first_ascent_country or first_ascent_year (0 or 1)
+          schema:
+            type: integer
+        - name: height_min
+          in: query
+          example: 6500
+          description: filtering by height the peak
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  movies:
+                    type: array
+                  next_page:
+                    type: integer
+                    example: 0
+                  last_page:
+                    type: integer
+                    example: 1000
+        '401':
+          description: Unauthorized
+        '500':
+          description: Internal server error
+      security:
+        - api_auth: []
+  /peaks/{peak_id}:
+    get:
+      summary: Get a peak informations
+      description: Return all the information about the peak filtering by ID.
+      parameters:
+        - name: peak_id
+          in: path
+          description: ID of the peak
+          example: HIUP
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: OK       
+        '404':
+          description: Peak not found
+        '401':
+          description: Unauthorized
+        '500':
+          description: Internal server error
+      security:
+        - api_auth: []
+  /expeditions:
+    get:
+      summary: Get all expedition
+      description: Return all the information about expeditions in Himalaya
+      parameters:
+        - name: page
+          in: query
+          example: 0
+          description: Index of the page (used for pagination)
+          schema:
+            type: integer
+        - name: page_size
+          in: query
+          example: 100
+          description: Number of peak per page (used for pagination)
+          schema:
+            type: integer
+        - name: year
+          in: query
+          example: 1992
+          description: filter the expedition for a specific year
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  movies:
+                    type: array
+                  next_page:
+                    type: integer
+                    example: 0
+                  last_page:
+                    type: integer
+                    example: 1000
+        '401':
+          description: Unauthorized
+        '500':
+          description: Internal server error
+      security:
+        - api_auth: []
+  /expeditions/{expedition_id}:
+    get:
+      summary: Get a expedition's informations
+      description: Return all the information about specific exeditions filtering by ID.
+      parameters:
+        - name: expedition_id
+          in: path
+          description: ID of the expedition
+          example: CHOY92401
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: OK       
+        '404':
+          description: expedition not found
+        '401':
+          description: Unauthorized
+        '500':
+          description: Internal server error
+      security:
+        - api_auth: []
+  /statistics:
+    get:
+      summary: Get a global statistic
+      description: Return some statistic about himalayan expedition.
+      parameters:
+        - name: start_year
+          in: path
+          description: year you want to filter
+          example: 2019
+          required: false
+          schema:
+            type: integer
+        - name: end_year
+          in: path
+          description: year you want to filter
+          example: 2019
+          required: false
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: OK       
+        '404':
+          description: not found
+        '401':
+          description: Unauthorized
+        '500':
+          description: Internal server error
+      security:
+        - api_auth: []     
+components:
+  schemas:
+    /peaks/{peak_id}:
+      required:
+        - peak_id
+      type: object
+      properties:
+        peak_id:
+          type: string
+          example: HIUP
+        nb_died:
+          type: integer
+          example: 5
+          description: number of deaths
+        first_ascent_country:
+          type: string
+          example: USA
+        tx_success:
+          type: integer
+          example: 48.7805
+          description: success rate on total shipments
+        nb_success:
+          type: integer
+          example: 20
+          description: total success
+        age_mean:
+          type: integer
+          example: 29.5
+          description: mean age of member's expediation
+        height_metres : 
+          type : integer
+          example : 6434
+        tx_oxygen_used : 
+          type : integer
+          example : 98
+          description : oxygen usage rate per total shipments
+        citizenship_sucess :
+          type : string
+          example :  ["USA",
+    "USA",
+    "USA",
+    "USA",
+    "USA",
+    "Canada",]
+    /Peaks:
+      properties:
+        peak_name:
+          type: string
+          example: Ama Dablam
+        peak_id":
+          type: string
+          example: AMAD
+        peak_alternative_name: 
+          type: string
+          example: Amai Dablang
+        height_metres:
+          type: integer
+          example: 6675
+        first_ascent_year:
+          type: integer
+          example: 1961.0
+        first_ascent_country :
+          type: string
+          example: New Zealand, USA, UK
+          description : nationality of the first expedition
+    /expeditions/{expedition_id}:
+      required:
+        - expedition_id
+      type: object
+      properties:
+        expedition_id:
+          type: string
+          example: AMAD00306
+        termination_reason: 
+          type: string
+          example: Success main peak
+        oxygen_used: 
+          type: boolean
+          example: 0
+        termination_date: 
+          type: date
+          example: 2000-10-23
+        members: 
+          type: integer
+          example: 2
+    /expeditions:
+      properties:
+        peak_name:
+          type: string
+          example: Ama Dablam
+        expedition_id:
+          type: string
+          example: AMAD00306
+        season: 
+          type: string
+          example: Autumn
+        year:
+          type: year
+          example: 2015
+    /statistics:
+      properties:
+        average_peak_heignt:
+          type: float
+          example: 6656.64
+        best_agency:
+          type: dictionary
+          example: {"name": "Asian Trekking", "nb_expeditions": 832, "success_rate": "0.5433"}
+        busiest_year: 
+          type: dictionary
+          example: {"expeditions": 403,"year": 2006}
+        most_climbed_peak: 
+          type: dictionary
+          example: {"expeditions": 2012,"name": "Everest"}
+        global_success_rate:
+          type: float
+          example: 38.16
+        total_climber:
+          type: integer
+          example: 76512
+        total_expedition:
+          type: integer
+          example: 9222
+        total_peak:
+          type: integer
+          example: 468
+        total_summit:
+          type: finteger
+          example: 29197
+        
+  securitySchemes:
+    api_auth:
+      type: http
+      scheme: basic
+      description: Please authenticate to use the API

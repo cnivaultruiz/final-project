@@ -1,0 +1,7 @@
+,season,climate,windows_date,peak_id
+0,Summer,Very Wet,June 7 to Sep 30,EVER
+1,Autumn Window,"Dry, Warm, Calm",Oct 1 to Oct 20,EVER
+2,Autumn,"Very Windy, Cold, Very Dry, Dark",Oct 20 to Nov 30,EVER
+3,Winter,"Very Windy, Very Cold, Dry, Dark",Dec 1 to Feb 28,EVER
+4,Spring,"Windy, Cold, Dry",Mar 1 to May 20,EVER
+5,Spring Window,"Dry, Warm, Calm",May 20 to June 6,EVER
