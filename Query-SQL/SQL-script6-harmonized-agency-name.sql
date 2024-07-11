@@ -1,4 +1,4 @@
-ALTER TABLE himalaya.expedition DROP COLUMN  harmonized_agency_name;
+-- ALTER TABLE himalaya.expedition DROP COLUMN  harmonized_agency_name;
 ALTER TABLE himalaya.expedition ADD COLUMN harmonized_agency_name VARCHAR(255);
 
 SET SQL_SAFE_UPDATES = 0;

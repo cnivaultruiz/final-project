@@ -1,3 +1,4 @@
+Drop view himalaya.agency;
 Create view agency as
 WITH climber as (
 SELECT 
